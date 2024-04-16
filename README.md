@@ -2,9 +2,7 @@
 
 8 × 4 = 32 キーの [Stream Deck XL](https://www.elgato.com/us/en/p/stream-deck-xl) で東島通商語のカスタムキーボードを作るためのもろもろ。
 
-![](./cutapijot_keymap_page_1.png)
-
-![](./cutapijot_keymap_page_2.png)
+<div><video controls src="https://github.com/sozysozbot/pmcp_keytop/assets/21972349/c67d59fe-f028-485a-bb48-c4efa94999b8" muted="false"></video></div>
 
 
 現状 [CUTAPIJOT フォント](https://github.com/yasusho/qafopwa_pmcp_font?tab=readme-ov-file#cutapijot)でキートップを作っている。
@@ -13,7 +11,11 @@
 
 ## 通常モード
 
-### 画像
+### スクショ
+
+![](./cutapijot_keymap_page_1.png)
+
+### 個別画像
 
 | ![](./CUTAPIJOT/key_xon.png) | ![](./CUTAPIJOT/key_p.png) | ![](./CUTAPIJOT/key_b.png) | ![](./CUTAPIJOT/key_m.png) | ![](./CUTAPIJOT/key_c.png) | ![](./CUTAPIJOT/key_x.png) | ![](./CUTAPIJOT/key_z.png) | ![](./CUTAPIJOT/key_laiju_e_lucuc.png) |
 |:---:|:--:|:--:|:--:|:---:|:--:|:--:|:--:|
@@ -41,7 +43,11 @@
 
 ## 妙モード
 
-### 画像
+### スクショ
+
+![](./cutapijot_keymap_page_2.png)
+
+### 個別画像
 
 | ![](./CUTAPIJOT/key_papel.png) | ![](./CUTAPIJOT/key_s.png) | ![](./CUTAPIJOT/key_g.png) | ![](./CUTAPIJOT/key_h.png) | ![](./CUTAPIJOT/key_slash.png) | ![](./CUTAPIJOT/key_dijac.png) | ![](./CUTAPIJOT/key_nip_left.png) | ![](./CUTAPIJOT/key_nip_right.png) |
 |:---:|:--:|:--:|:--:|:---:|:--:|:--:|:--:|
