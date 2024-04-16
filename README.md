@@ -1,8 +1,13 @@
 # pmcp_keytop
 
-32 キーの Stream Deck XL で東島通商語のカスタムキーボードを作るためのもろもろ。
+8 × 4 = 32 キーの [Stream Deck XL](https://www.elgato.com/us/en/p/stream-deck-xl) で東島通商語のカスタムキーボードを作るためのもろもろ。
 
-現状 CUTAPIJOT フォントでキートップを作っている。
+![](./cutapijot_keymap_page_1.png)
+
+![](./cutapijot_keymap_page_2.png)
+
+
+現状 [CUTAPIJOT フォント](https://github.com/yasusho/qafopwa_pmcp_font?tab=readme-ov-file#cutapijot)でキートップを作っている。
 
 # キーボードの概要
 
